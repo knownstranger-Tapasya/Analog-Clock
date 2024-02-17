@@ -26,12 +26,13 @@ To run the analog clock locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/knownstranger-Tapasya/Analog-Clock.git
 ```
 2. Navigate to the project directory:
-   cd Analog-Clock
-
+  ```
+ cd Analog-Clock
+ ```
 3. Open the index.html file in your web browser.
 
    
